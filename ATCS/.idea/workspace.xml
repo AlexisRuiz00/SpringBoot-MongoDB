@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29e91abd-4721-4f58-8756-494885c169b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/Controller/MainController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/Model/ATCSJDBC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/Model/Administrator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/Model/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/Model/Conection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/Model/Incidence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/Model/IncidenceAdmin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/Model/SystemAdmin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/Server$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/SupportChat$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/SupportChat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewAdminLogin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewAdminLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewClientIncidences$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewClientIncidences$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewClientIncidences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewClientLogin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewClientLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewIncidenceAdmin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewIncidenceAdmin$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewIncidenceAdmin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewSystemAdmin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewSystemAdmin$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATCS/View/ViewSystemAdmin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/ATCSJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Administrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Conection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Incidence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/IncidenceAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/SystemAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/SupportChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/ViewAdminLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/ViewClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/ViewClientIncidences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/ViewClientLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/ViewIncidenceAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/ViewSystemAdmin.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TAZZZ4b9D3V8sGRkoIB5Yg2z8x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PSP" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ViewClient">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View.Server" />
+      <module name="ATCS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View.ViewClient" />
+      <module name="ATCS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewClientIncidences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View.ViewClientIncidences" />
+      <module name="ATCS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewClientLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View.ViewClientLogin" />
+      <module name="ATCS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewIncidenceAdmin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View.ViewIncidenceAdmin" />
+      <module name="ATCS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ViewClient" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.ViewClientIncidences" />
+        <item itemvalue="Application.ViewClientLogin" />
+        <item itemvalue="Application.ViewIncidenceAdmin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29e91abd-4721-4f58-8756-494885c169b1" name="Default Changelist" comment="" />
+      <created>1572904916362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572904916362</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../ATCS.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
